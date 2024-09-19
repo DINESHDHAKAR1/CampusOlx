@@ -46,7 +46,7 @@ Contributions to Buysell_client are welcome! If you find any bugs or have sugges
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 **Contact:**
-If you have any questions or need further assistance, you can contact the repository owner at anugrahgupta0812@gmail.com(mailto:anugrahgupta0812@gmail.com).
+If you have any questions or need further assistance, you can contact the repository owner at dinesh2252636@gmail.com(mailto:dinesh2252636@gmail.com).
 
 **Acknowledgments:**
 Special thanks to the developers of the backend services that power this application, as well as the various libraries and frameworks used in its development.
